@@ -9,8 +9,8 @@
 
 ## Estou aprendendo
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="40" height="40"/> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-" width="40" height="40"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="126.5" height="28"/> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+" width="126.5" height="28"/>
 
 
 
